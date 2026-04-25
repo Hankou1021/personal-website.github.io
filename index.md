@@ -11,10 +11,10 @@ I study math.
 
 ## Research Interests
 
-- **Differential Geometry:** 
-- **Algebraic Geometry:**
+- **Differential Geometry** 
+- **Algebraic Geometry**
 - **Complex Geometry** 
-- **Number Theory:**
+- **Number Theory**
 
 ## News
 Nothing here yet.
