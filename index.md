@@ -12,7 +12,8 @@ I study math.
 ## Research Interests
 
 - **Differential Geometry:** 
-- **Algebraic Geometry:** 
+- **Algebraic Geometry:**
+- **Complex Geometry** 
 - **Number Theory:**
 
 ## News
