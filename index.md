@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at National Taiwan University.
+I am an undergraduate student ofat National Taiwan University.
 
 I study math.
 
@@ -13,13 +13,10 @@ I study math.
 
 - **Differential Geometry:** 
 - **Algebraic Geometry:** 
-- **Number Theory:** 
+- **Number Theory:**
+- 
 ## News
-
-- **[Feb. 2020]** Didn't had seminar talk at NTU graduate student event
-- **[Feb. 2020]** Didn't had colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Didn't started Ph.D. program at NTU
-- **[Mar. 2019]** Didn't graduated from Univeristy of Washington with bachelors degree.
+Nothing here yet.
 
 ## Publications
 
@@ -27,49 +24,18 @@ I study math.
 
 ## Notes and Presentations
 
+I and 陳偉群 made the lecture notes for 2026 Spring NTU calculus (for math major undergrads) 
+Will put the link here after the semester :)
 {% include_relative _includes/notes.html %}
 
 ## Teaching
-
-I have experience teaching the fundamental theorem of calculus
-\\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
-This is related to the isomorphism
-$\mathrm{Pic}^0(X) \cong H^0(X, \Omega^1)^\vee / H_1(X, \mathbb Z)$
-when $X$ is an algebraic curve.
-
-**University of Washington**
-
-- [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
-- [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
+Nothing here yet.
 
 ## Service
-
-#### Organizer 
-- Student Combinatorics Seminar, University of Washington
-- Directed Reading Program
-
-#### Journal Reviewer
-- INTEGERS
-- Electronic Journal of Combinatorics
-- Taiwanese J. Math.
-- Inventiones
+Nothing here yet.
 
 ## Misc. Links
+Nothing here yet.
 
-- [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
-
-**Other template features:**
-- Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
-
-- Markdown code:
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-    s.add_dependency(gem, "= #{version}")
-end
-```
-
-- Markdown for a math quote:
-> God is always doing geometry  
-> -- Plato
+> Without humans the universe is empty. Our existence, our ability to appreciate the beauty of this universe makes it flourish.
+> -- Talos Principle 2
