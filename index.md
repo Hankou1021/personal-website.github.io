@@ -14,11 +14,12 @@ I study math.
 - **Differential Geometry:** 
 - **Algebraic Geometry:** 
 - **Number Theory:**
-- 
+
 ## News
 Nothing here yet.
 
 ## Publications
+Nothing here yet.
 
 {% include_relative _includes/publications.html %}
 
